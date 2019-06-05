@@ -9,13 +9,13 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.simon.pascal</groupId>
-	<artifactId>docker-app</artifactId>
+	<artifactId>dockers-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>docker-app</name>
+	<name>dockers-app</name>
 	<description>first time with docker</description>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 
 	<dependencies>
